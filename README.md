@@ -14,7 +14,7 @@
 
 \## Repository GitHub
 
-https://github.com/TON\_USERNAME/ipl-social
+https://github.com/MA2Ssss/ipl-social
 
 
 
